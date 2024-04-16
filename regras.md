@@ -12,3 +12,5 @@
 5. Coleções de primeira classe
 
 6. Apenas 1 "ponto" por linha (uma chamada de instrução por linha ->)
+
+7. Nunca abrevie
