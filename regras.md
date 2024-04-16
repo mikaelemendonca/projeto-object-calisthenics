@@ -5,4 +5,4 @@
 
 2. Ter apenas 1 nível de indentação por método
 
-3. Nunca use ELSE
+3. Nunca use ELSE (Early return e Fail fast)
