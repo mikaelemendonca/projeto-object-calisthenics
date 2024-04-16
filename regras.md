@@ -8,3 +8,5 @@
 3. Nunca use ELSE (Early return e Fail fast)
 
 4. Envolva seus tipos primitivos (caso eles tenhas comportamento)
+
+5. Coleções de primeira classe
