@@ -10,3 +10,5 @@
 4. Envolva seus tipos primitivos (caso eles tenhas comportamento)
 
 5. Coleções de primeira classe
+
+6. Apenas 1 "ponto" por linha (uma chamada de instrução por linha ->)
