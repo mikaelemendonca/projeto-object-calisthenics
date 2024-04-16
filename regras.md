@@ -14,3 +14,7 @@
 6. Apenas 1 "ponto" por linha (uma chamada de instrução por linha ->)
 
 7. Nunca abrevie
+
+8. Mantenha suas classes e namespaces pequenos
+
+9. Tenha no máximo duas propriedades por classe
